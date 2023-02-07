@@ -34,6 +34,10 @@ body {
 	line-height: 1;
 }
 
+.field {
+	margin-bottom: 20px;
+}
+
 ol, ul {
 	list-style: none;
 }
@@ -48,7 +52,7 @@ blockquote, q {
 	}
 
 table {
-	border-collapse: collapse;
+	border-collapse: collapse;.field
 	border-spacing: 0;
 }
 
